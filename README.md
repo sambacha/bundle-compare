@@ -5,7 +5,6 @@
 ![](origin.svg)
 
 
+## NextGen 
 
-## Refactor 
-
-![](refactor.svg)
+![](dependencygraph.svg)
